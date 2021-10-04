@@ -10,35 +10,36 @@ body{
 }
 #beats1{
     grid-area: beats1;
-    border: 1px solid black;
+    align-self: center;
     
 }
 #beats2{
     grid-area: beats2;
-    border: 1px solid black;
+    align-self: center;
+
 }
 #amazon1 {
     grid-area: amazon1;
-    border: 1px solid black;
+    align-self: center;
 }
 #amazon2 {
     grid-area: amazon2;    
-    border: 1px solid black;
+    align-self: center;
 
 }
 #apple1 {
     grid-area: apple1;
-    border: 1px solid black;
+    align-self: center;
 }
 #apple2 {
     grid-area: apple2;
-    border: 1px solid black;
+    align-self: center;
 }
 #adidas1{
     grid-area: adidas1;
-    border: 1px solid black;
+    align-self: center;
 }
 #adidas2 {
     grid-area: adidas2;
-    border: 1px solid black;
+    align-self: center;
 }
